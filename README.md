@@ -38,7 +38,7 @@ You can run this project locally to explore all features including dashboard ana
 
 | Feature | Tech Used |
 |--------|------------|
-| Backend | ASP.NET Core MVC |
+| Backend | C#, ASP.NET Core MVC |
 | ORM | Entity Framework Core Code First |
 | Database | SQL Server |
 | Frontend | HTML, CSS, Bootstrap, Razor Views |
